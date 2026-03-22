@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "僕は僕の速さで",
+  "base_artist": "ヨノ",
+  "createdAt": "2026-03-22T17:26:23.437353Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "僕は僕の速さで",
+      "artist": "ヨノ",
+      "has_synced": false,
+      "path": "select/pl_01_僕は僕の速さで_ヨノ.txt"
+    }
+  ]
+}
